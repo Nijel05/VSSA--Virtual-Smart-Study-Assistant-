@@ -184,9 +184,10 @@ npm run dev
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
 **Nijel Cook**
+**Kyla Clarke**
 
 Software Engineer
 
