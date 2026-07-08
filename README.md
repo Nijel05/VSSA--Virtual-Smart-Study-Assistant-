@@ -180,7 +180,7 @@ npm run dev
 
 **University:** Norfolk State University
 
-**Degree:** Bachelor of Science in Software Engineering
+**Degree:** Bachelor of Computer Science in Software Engineering & Associates of general studies 
 
 ---
 
